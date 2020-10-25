@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.helldogpack.hptweaks.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "hptweaks.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "ClientMixinExtendedMenuScreen"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+} 
